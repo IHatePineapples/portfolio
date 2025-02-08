@@ -1,1 +1,6 @@
-# Things pineapple related.
+---
+layout: post
+title: Home
+---
+
+Hiii
