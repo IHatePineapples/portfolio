@@ -1,0 +1,3 @@
+[submodule "extern/chirpy-starter"]
+	path = extern/chirpy-starter
+	url = git@github.com:cotes2020/chirpy-starter.git
