@@ -3,7 +3,7 @@ title: Ordinary Interview/screening questions
 date: 2025-04-13 23:00:00 +0000
 categories: Employability
 tags: [employability, cpp]  
-description: Simple Interview-like QA that I have come accross.
+description: Simple Interview-like QAs that I have come accross.
 --- 
 
 These are generic questions that I have come accross.
