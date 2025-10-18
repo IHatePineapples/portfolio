@@ -13,7 +13,6 @@ timezone: Europe/London
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
-
 title: Youssef Quaisse # the main title
 
 tagline: My portfolio including my work, projects and tutorials. # it will display as the subtitle
@@ -211,7 +210,7 @@ exclude:
   - README.md
   - LICENSE
   - purgecss.js
-  - rollup.config.js
+  - "*.config.js"
   - "package*.json"
 
 jekyll-archives:
